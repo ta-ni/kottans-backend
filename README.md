@@ -13,4 +13,7 @@ Also I want to share the game that can help to learn git commands:
 
 I've been using most of these commands before, but repeating all of them was good for me :) thanks
 
-![task-2.1](./task_unix_shell/image1.png);
+![task-2.1](task_unix_shell/1.png);
+![task-2.1](task_unix_shell/2.png);
+![task-2.1](task_unix_shell/3.png);
+![task-2.1](task_unix_shell/4.png);
